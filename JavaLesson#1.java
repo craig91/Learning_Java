@@ -1,5 +1,5 @@
 public class Main{ // <=== This is the name of the class/program
-    public static void main(string[] args){ // <== this is the main method
+    public static void main(String[] args){ // <== this is the main method
         System.out.println("Welcome to Java");
         System.out.println("Let's demonstrate a simple calculation");
         int answer;
