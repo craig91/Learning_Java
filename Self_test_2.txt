@@ -1,0 +1,25 @@
+1. What is a compiler?
+
+A compiler is a program that translates a high-level-language program, such 
+as a Java program, into an equivalent low-level-language program.
+
+2. What is a source program?
+
+A source program is the Java program that is the input to the compiled into byte-code.
+
+3. What is an object program?
+
+An object program is the translated and compiled result of the input program. This object program is
+the low-level-language program produced by the compiler.
+
+4. What do you call a program that runs Java byte-code instructions?
+
+The intepreter.
+
+5. Suppose you define a class named NiceClass in a file. What name should the file have?
+
+NiceClass.Java
+
+6. Suppose you compile the NiceClass. What will be the name of the file wiht the resulting byte-code?
+
+NiceClass.class
