@@ -1,5 +1,5 @@
 public class Conditionals {
-    public static void main(string[] args){
+    public static void main(String[] args){
 
         if (1 < 4 && 0 > 5){
             // If 1 is less than 4 and 0 greater than 5
