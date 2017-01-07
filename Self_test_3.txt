@@ -1,0 +1,4 @@
+Which of the following may be used as variable names in Java?
+
+rate1, 1stPlayer, myprogram.java, long, TimeLimit, numberOfWindows
+
