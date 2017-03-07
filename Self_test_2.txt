@@ -1,6 +1,6 @@
 1. What is a compiler?
 
-A compiler is a program that translates a high-level-language program, such 
+A compiler is a program that translates a high-level-language program, such
 as a Java program, into an equivalent low-level-language program.
 
 2. What is a source program?
@@ -14,7 +14,7 @@ the low-level-language program produced by the compiler.
 
 4. What do you call a program that runs Java byte-code instructions?
 
-The intepreter AKA JVM Java Virtual Machine
+The interpreter AKA JVM Java Virtual Machine
 
 5. Suppose you define a class named NiceClass in a file. What name should the file have?
 
