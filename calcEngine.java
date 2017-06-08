@@ -15,7 +15,13 @@ public class Main {
         result = val1 - val2;
     else if(opCode == 'm')
         result = val1 * val2;
-    else if(opCode == 'd')
+    else if(opCode == 'd'){ // <=== turned into a block statement for readablility
+      result = val2 != 0.0d ? val1 / val2 : 0.0d;
+      // if(val2 != 0.0d)  <======  2 different conditionals for the same purpose.
+      //    result = val1 / val2;
+      // else
+      //    result = 0.0d;
+    }
         result = val1 / val2;
     else
         result = 0.0d;
